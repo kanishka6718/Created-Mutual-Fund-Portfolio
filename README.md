@@ -31,3 +31,22 @@ Pandas, NumPy
 Plotly for interactive graphs
 
 Financial logic: ROI, volatility, CAGR
+
+
+
+
+ ## Contact
+
+Feel free to connect or ask questions:
+
+[LinkedIn](https://www.linkedin.com/in/kanishka-negi/)
+
+[Medium Blog](https://medium.com/@kanishkanegi13413)
+
+[Email](kanishkanegi13413@gmail.com)
+
+
+
+## ⭐ Star This Project
+
+If you found this helpful, please consider giving this repo a ⭐ to support more work like this!
